@@ -121,5 +121,20 @@ public class Player_Test {
 			int referee = player.selectReferee();
 			fail("例外が起きなかった");
 		}
+		
+		
+		@Test
+		public void Test5() {
+		//入力
+			Player p1 = new Player();
+		    String actual = p1.inputName();
+		
+		//出力
+		    String expected = "プレイヤー1";
+		
+		//テストの実行
+		    assertThat(actual, is(expected));
+		}
+		
 }
 
