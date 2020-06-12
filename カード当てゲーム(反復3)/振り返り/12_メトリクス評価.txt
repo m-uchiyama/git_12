@@ -1,0 +1,67 @@
+
+12グループ　
+メトリクス評価
+
+NOF　目安5-9
+game 7
+suit 4
+card 3
+referee 2
+cards 1
+main
+
+NOM 目安5-9
+referee 7
+easy 6
+player 6
+card 5
+hard 5
+game 4
+cards 3
+main 0
+suit 0
+
+
+MLOC  目安50以下
+△easy 119
+△game 95
+△hard 79
+main 26
+△player 72
+cards 21
+card 8
+referee 4
+suit 0
+
+NBD 目安5以下
+player 2.5
+game 2.5
+main 3
+easy 1.833
+cards 2
+hard 1.4
+referee 0.429
+card 1
+suit 0
+
+VG 　10以下であればよい構造 
+△easy 15
+△game 14
+△hard 11
+player 7
+cards 5
+main 4
+referee 1
+card 1
+
+
+LCOM　0に近いほうが良い凝集度が高い
+card 0.583
+game 0.571
+referee 0.5
+main 0
+easy 0
+hard 0
+player 0
+cards 0
+
